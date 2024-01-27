@@ -1,8 +1,8 @@
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shadlc/shadlc/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shadlc/shadlc/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/shadlc/shadlc/output/github-snake.svg" />
 </picture>
 
 [![Shadlc's GitHub stats](https://vercel-shadlc.vercel.app/api?username=shadlc&cache_seconds=7200&custom_title=My%20Github%20Stats&hide_border=true&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/shadlc)
